@@ -1,0 +1,39 @@
+.wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	font-family: sans-serif;
+	font-size: 18px;
+	font-height: 24px;
+	
+	max-width: 1200px;
+}
+
+.block {
+	width: 300px;
+	padding: 7px 12px;
+
+}
+
+.input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 7px;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.btn {
+	background-color: #05fabd;
+	font-size: 18px;
+	font-weight: bold;
+	height: 40px;
+	border: none;
+	border-radius: 5px;
+	margin: 5px 5px;
+}
+
+.text {
+	max-width: 300px;
+	font-family: sans-serif;
+	font-size: 18px;
+}
